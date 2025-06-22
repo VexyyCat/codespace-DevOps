@@ -15,5 +15,4 @@ jobs:
 
       - name: Install dependencies & AWS CLI
         run: |
-          pip install -r requirements.txt
           pip install awscli
